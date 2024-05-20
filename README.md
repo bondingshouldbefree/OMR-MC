@@ -7,6 +7,10 @@
 [![Twitter](https://www.openmptcprouter.com/img/twitter.jpg)](https://twitter.com/OpenMPTCProuter)
 [![Atom](https://www.openmptcprouter.com/img/feed.png)](https://www.openmptcprouter.com/atom)
 
+#Multi Clienting OMR
+
+This fork is a work in progress. The goals here are to have working multiclienting support on the server and working seemless handoff of tunnel connectivity between interfaces during an interface failure. 
+
 # OpenMPTCProuter
 
 OpenMPTCProuter is an open source solution to aggregate and encrypt multiple internet connections and terminates it over any VPS which make clients benefit security, reliability, net neutrality, as well as dedicated public IP.
